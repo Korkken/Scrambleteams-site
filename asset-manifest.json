@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.bd36bb59.chunk.css",
-    "main.js": "/static/js/main.66f6434a.chunk.js",
-    "main.js.map": "/static/js/main.66f6434a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5170cdac.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5170cdac.js.map",
-    "static/js/2.f6a692c2.chunk.js": "/static/js/2.f6a692c2.chunk.js",
-    "static/js/2.f6a692c2.chunk.js.map": "/static/js/2.f6a692c2.chunk.js.map",
-    "static/js/3.a9b553df.chunk.js": "/static/js/3.a9b553df.chunk.js",
-    "static/js/3.a9b553df.chunk.js.map": "/static/js/3.a9b553df.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.bd36bb59.chunk.css.map": "/static/css/main.bd36bb59.chunk.css.map",
-    "static/js/2.f6a692c2.chunk.js.LICENSE.txt": "/static/js/2.f6a692c2.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/circular-std.0cea81af.otf"
+    "main.css": "/Scrambleteams-site/static/css/main.b694f3c0.chunk.css",
+    "main.js": "/Scrambleteams-site/static/js/main.4d5deeb0.chunk.js",
+    "main.js.map": "/Scrambleteams-site/static/js/main.4d5deeb0.chunk.js.map",
+    "runtime-main.js": "/Scrambleteams-site/static/js/runtime-main.6ffe5fde.js",
+    "runtime-main.js.map": "/Scrambleteams-site/static/js/runtime-main.6ffe5fde.js.map",
+    "static/js/2.f6a692c2.chunk.js": "/Scrambleteams-site/static/js/2.f6a692c2.chunk.js",
+    "static/js/2.f6a692c2.chunk.js.map": "/Scrambleteams-site/static/js/2.f6a692c2.chunk.js.map",
+    "static/js/3.a9b553df.chunk.js": "/Scrambleteams-site/static/js/3.a9b553df.chunk.js",
+    "static/js/3.a9b553df.chunk.js.map": "/Scrambleteams-site/static/js/3.a9b553df.chunk.js.map",
+    "index.html": "/Scrambleteams-site/index.html",
+    "static/css/main.b694f3c0.chunk.css.map": "/Scrambleteams-site/static/css/main.b694f3c0.chunk.css.map",
+    "static/js/2.f6a692c2.chunk.js.LICENSE.txt": "/Scrambleteams-site/static/js/2.f6a692c2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Scrambleteams-site/static/media/circular-std.0cea81af.otf"
   },
   "entrypoints": [
-    "static/js/runtime-main.5170cdac.js",
+    "static/js/runtime-main.6ffe5fde.js",
     "static/js/2.f6a692c2.chunk.js",
-    "static/css/main.bd36bb59.chunk.css",
-    "static/js/main.66f6434a.chunk.js"
+    "static/css/main.b694f3c0.chunk.css",
+    "static/js/main.4d5deeb0.chunk.js"
   ]
 }
