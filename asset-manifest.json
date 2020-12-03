@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Scrambleteams-site/static/css/main.209409ca.chunk.css",
-    "main.js": "/Scrambleteams-site/static/js/main.fd300812.chunk.js",
-    "main.js.map": "/Scrambleteams-site/static/js/main.fd300812.chunk.js.map",
+    "main.js": "/Scrambleteams-site/static/js/main.952600ff.chunk.js",
+    "main.js.map": "/Scrambleteams-site/static/js/main.952600ff.chunk.js.map",
     "runtime-main.js": "/Scrambleteams-site/static/js/runtime-main.6ffe5fde.js",
     "runtime-main.js.map": "/Scrambleteams-site/static/js/runtime-main.6ffe5fde.js.map",
     "static/js/2.f6a692c2.chunk.js": "/Scrambleteams-site/static/js/2.f6a692c2.chunk.js",
@@ -12,12 +12,15 @@
     "index.html": "/Scrambleteams-site/index.html",
     "static/css/main.209409ca.chunk.css.map": "/Scrambleteams-site/static/css/main.209409ca.chunk.css.map",
     "static/js/2.f6a692c2.chunk.js.LICENSE.txt": "/Scrambleteams-site/static/js/2.f6a692c2.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Scrambleteams-site/static/media/circular-std.0cea81af.otf"
+    "static/media/App.css": "/Scrambleteams-site/static/media/circular-std.0cea81af.otf",
+    "static/media/Group.f8f89006.svg": "/Scrambleteams-site/static/media/Group.f8f89006.svg",
+    "static/media/Logo.b06ce746.svg": "/Scrambleteams-site/static/media/Logo.b06ce746.svg",
+    "static/media/users.08841135.svg": "/Scrambleteams-site/static/media/users.08841135.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6ffe5fde.js",
     "static/js/2.f6a692c2.chunk.js",
     "static/css/main.209409ca.chunk.css",
-    "static/js/main.fd300812.chunk.js"
+    "static/js/main.952600ff.chunk.js"
   ]
 }
